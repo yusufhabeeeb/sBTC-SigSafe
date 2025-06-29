@@ -4,8 +4,7 @@
 A secure, extensible multi-signature wallet on the **Stacks blockchain** using the **Clarity smart contract language**. This contract allows for **M-of-N signature approval**, time-bound execution, memo support, owner management, and batch transaction creation — ideal for DAOs, treasuries, and secure multi-party wallets.
 
 ---
-
-## 🚀 Features
+##  Features
 
 * ✅ **M-of-N signature model** — Require multiple owners to approve transactions.
 * 📝 **Transaction memos** — Optional memo support for clarity and context.
